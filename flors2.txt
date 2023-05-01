@@ -1,0 +1,256 @@
+Цветок № 1
+
+Название: 
+Кактус Миртиллокактус геометризанс 
+Ссылка: /catalog/komnatnye-rastenija/mirtillokaktus-geometrizans-detail
+Цена: 850 руб
+
+********************
+Цветок № 2
+
+Название: 
+Кактус Нотокактус Ленинхауза 
+Ссылка: /catalog/komnatnye-rastenija/notokaktus-leninkhauza-detail
+Цена: 800 руб
+
+********************
+Цветок № 3
+
+Название: 
+Кактус Нотокактус Ленинхауза 
+Ссылка: /catalog/komnatnye-rastenija/kaktus-notokaktus-leninkhauza-1-detail
+Цена: 950 руб
+
+********************
+Цветок № 4
+
+Название: 
+Кактус Опунция Микродезис Альбата Банни 
+Ссылка: /catalog/komnatnye-rastenija/kaktus-opuntsiya-mikrodezis-albata-banni-detail
+Цена: 850 руб
+
+********************
+Цветок № 5
+
+Название: 
+Кактус Опунция Микродезис Паллида 
+Ссылка: /catalog/komnatnye-rastenija/kaktus-opuntsiya-mikrodezis-pallida-detail
+Цена: 850 руб
+
+********************
+Цветок № 6
+
+Название: 
+Кактус Опунция Монканта 
+Ссылка: /catalog/komnatnye-rastenija/opuntsiya-monkanta-2-detail
+Цена: 850 руб
+
+********************
+Цветок № 7
+
+Название: 
+Кактус Пилозоцереус Азуреус 
+Ссылка: /catalog/komnatnye-rastenija/kaktus-pilozotsereus-azureus-detail
+Цена: 700 руб
+
+********************
+Цветок № 8
+
+Название: 
+Кактус Пилозоцереус хризостеле 
+Ссылка: /catalog/komnatnye-rastenija/kaktus-pilozotsereus-khrizostele-detail
+Цена: 700 руб
+
+********************
+Цветок № 9
+
+Название: 
+Кактус Рэйнбоу крашеный желтый 
+Ссылка: /catalog/komnatnye-rastenija/kaktus-rejnbou-krashenyj-zheltyj-1-detail
+Цена: 1150 руб
+
+********************
+Цветок № 10
+
+Название: 
+Кактус Рэйнбоу крашеный красный 
+Ссылка: /catalog/komnatnye-rastenija/kaktus-rejnbou-krashenyj-krasnyj-1-1-detail
+Цена: 1150 руб
+
+********************
+Цветок № 11
+
+Название: 
+Кактус Рэйнбоу крашеный розовый 
+Ссылка: /catalog/komnatnye-rastenija/kaktus-rejnbou-krashenyj-rozovyj-1-1-detail
+Цена: 1150 руб
+
+********************
+Цветок № 12
+
+Название: 
+Кактус Рэйнбоу крашеный салатовый 
+Ссылка: /catalog/komnatnye-rastenija/kaktus-rejnbou-krashenyj-salatovyj-detail
+Цена: 1150 руб
+
+********************
+Цветок № 13
+
+Название: 
+Кактус сорт 11 
+Ссылка: /catalog/komnatnye-rastenija/kaktus-sort-11-detail
+Цена: 750 руб
+
+********************
+Цветок № 14
+
+Название: 
+Кактус сорт 12 
+Ссылка: /catalog/komnatnye-rastenija/kaktus-sort-12-detail
+Цена: 750 руб
+
+********************
+Цветок № 15
+
+Название: 
+Кактус сорт 13 
+Ссылка: /catalog/komnatnye-rastenija/kaktus-sort-13-detail
+Цена: 750 руб
+
+********************
+Цветок № 16
+
+Название: 
+Кактус сорт 14 
+Ссылка: /catalog/komnatnye-rastenija/kaktus-sort-14-detail
+Цена: 750 руб
+
+********************
+Цветок № 17
+
+Название: 
+Кактус Телокактус 
+Ссылка: /catalog/komnatnye-rastenija/kaktus-telokaktus-detail
+Цена: 850 руб
+
+********************
+Цветок № 18
+
+Название: 
+Кактус Эспостоа Ланата 
+Ссылка: /catalog/komnatnye-rastenija/kaktus-espostoa-lantana-detail
+Цена: 750 руб
+
+********************
+Цветок № 19
+
+Название: 
+Кактус Эхинопсис Оксигона 
+Ссылка: /catalog/komnatnye-rastenija/kaktus-ekhinopsis-oksigona-detail
+Цена: 800 руб
+
+********************
+Цветок № 20
+
+Название: 
+Кактус Эхиноцереус Скиурус 
+Ссылка: /catalog/komnatnye-rastenija/kaktus-ekhinotsereus-skiurus-detail
+Цена: 700 руб
+
+********************
+Цветок № 21
+
+Название: 
+Каладиум Кэролин Уортон 
+Ссылка: /catalog/komnatnye-rastenija/kaladium-kerolin-uorton-detail
+Цена: 2750 руб
+
+********************
+Цветок № 22
+
+Название: 
+Каладиум Пинк Бьюти 
+Ссылка: /catalog/komnatnye-rastenija/kaladium-pink-byuti-detail
+Цена: 2750 руб
+
+********************
+Цветок № 23
+
+Название: 
+Каладиум Пинк Фэнси 
+Ссылка: /catalog/komnatnye-rastenija/kaladium-pink-fensi-detail
+Цена: 2750 руб
+
+********************
+Цветок № 24
+
+Название: 
+Каладиум Фэнси Кэролин 
+Ссылка: /catalog/komnatnye-rastenija/kaladium-fensi-kerolin-detail
+Цена: 2750 руб
+
+********************
+Цветок № 25
+
+Название: 
+Каланхоэ Календива алое 
+Ссылка: /catalog/komnatnye-rastenija/kalankhoe-kalendiva-aloe-detail
+Цена: 1000 руб
+
+********************
+Цветок № 26
+
+Название: 
+Каланхоэ Календива белое 
+Ссылка: /catalog/komnatnye-rastenija/kalankhoe-kalendiva-beloe-12-25-detail
+Цена: 1100 руб
+
+********************
+Цветок № 27
+
+Название: 
+Каланхоэ Календива белое 
+Ссылка: /catalog/komnatnye-rastenija/kalankhoe-kalendiva-beloe-1-detail
+Цена: 1000 руб
+
+********************
+Цветок № 28
+
+Название: 
+Каланхоэ Календива желтое 
+Ссылка: /catalog/komnatnye-rastenija/kalankhoe-kalendiva-zheltoe-8-15-detail
+Цена: 1000 руб
+
+********************
+Цветок № 29
+
+Название: 
+Каланхоэ Календива желтое 
+Ссылка: /catalog/komnatnye-rastenija/kalankhoe-kalendiva-zheltoe-12-25-detail
+Цена: 1100 руб
+
+********************
+Цветок № 30
+
+Название: 
+Каланхоэ Календива желтое 
+Ссылка: /catalog/komnatnye-rastenija/2020-10-21-10-43-151506134756-detail
+Цена: 1150 руб
+
+********************
+Цветок № 31
+
+Название: 
+Каланхоэ Календива красное 
+Ссылка: /catalog/komnatnye-rastenija/2020-10-21-10-43-15827414939-detail
+Цена: 1150 руб
+
+********************
+Цветок № 32
+
+Название: 
+Каланхоэ Календива лиловое 
+Ссылка: /catalog/komnatnye-rastenija/kalankhoe-kalendiva-lilovoe-13-2-detail
+Цена: 1100 руб
+
+********************
